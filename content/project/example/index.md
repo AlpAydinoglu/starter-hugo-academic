@@ -1,6 +1,6 @@
 ---
 title: Multi-Contact Model Predictive Control
-summary: We propose a general hybrid model predictive control algorithm, consensus complementarity control (C3), for systems that make and break contact with their environment. Many state-of-the-art controllers for tasks which require initiating contact with the environment, such as locomotion and manipulation, require a priori mode schedules or are so computationally complex that they cannot run at real-time rates. We present a method, based on the alternating direction method of multipliers (ADMM), capable of highspeed reasoning over potential contact events. Via a consensus formulation, our approach enables parallelization of the contact scheduling problem. We validate our results on three numerical examples, including two frictional contact problems, and physical experimentation on an underactuated multi-contact system.
+summary: testasdasd
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
