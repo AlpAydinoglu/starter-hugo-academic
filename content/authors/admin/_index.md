@@ -18,6 +18,7 @@ bio: My research interests include optimization, control theory, and mechanics (
 
 # Interests to show in About widget
 interests:
+  - Multi-contact systems (particularly manipulation)
   - Optimization
   - Control theory
   - Non-smooth mechanics
