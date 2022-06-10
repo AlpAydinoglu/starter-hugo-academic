@@ -71,5 +71,3 @@ highlight_name: true
 I am a doctoral candidate in the ESE department and the GRASP Lab at Penn. I work in the DAIR Laboratory where I am advised by Michael Posa. Previously, I was an undergraduate at Istanbul Technical University where I did two different thesis projects advised by M. Turan Söylemez and Neslihan Serap Şengör.
 
 Currently, I am working on real-time multi-contact optimal control. One of my more recent interests is estimator design for hybrid, particularly multi-contact systems and I am also exploring reinforcement learning for the same class of systems.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
