@@ -1,6 +1,6 @@
 ---
 title: Mass models and spiking neural networks
-summary: Finding relations between mass models and spiking neural networks via bifurcation analysis
+summary: Exploring the connections between mass models and spiking neural networks via bifurcation analysis
 weight: 14
 
 tags:
