@@ -1,7 +1,7 @@
 ---
-title: Sliding mode control for a 3-DOF helicopter 
+title: Sliding mode control of a 3-DOF helicopter 
 summary: Control of a 3-DOF helicopter with a hierarchical sliding mode controller with PID surface, including hardware implementation
-weight: 14
+weight: 15
 
 tags:
   - Deep Learning
