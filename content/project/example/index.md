@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Multi-Contact Model Predictive Control
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
