@@ -1,6 +1,6 @@
 ---
 title: Mass models and spiking neural networks
-summary: Stabilization of an unknown nonlinear dynamical system when only data samples from its dynamics are available via ensemble learning
+summary: Finding relations between mass models and spiking neural networks via bifurcation analysis
 weight: 14
 
 tags:
