@@ -1,6 +1,6 @@
 ---
 title: Feedback control design near contact surfaces
-summary: Framework for provably stable local control of multi-contact robotic systems, directly utilizing force measurements and exploiting the complementarity structure of contact dynamics <br /> **Stabilization of Complementarity Systems via Contact-Aware Controllers (TRO 2021)**  <br /> **Contact-Aware Controller Design for Complementarity Systems (ICRA 2020)**
+summary: Framework for provably stable local control of multi-contact robotic systems, directly utilizing force measurements and exploiting the contact structure <br /> **Stabilization of Complementarity Systems via Contact-Aware Controllers (TRO 2021)**  <br /> **Contact-Aware Controller Design for Complementarity Systems (ICRA 2020)**
 
 tags:
   - Deep Learning
