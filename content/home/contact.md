@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: alpaydinoglu@seas.upenn.edu
+  email: alpayd@seas.upenn.edu
   
 design:
   columns: '2'
