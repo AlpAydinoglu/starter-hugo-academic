@@ -10,7 +10,7 @@ role: PhD Student in GRASP Lab
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Pennsylvania
+  - name: University of Pennsylvania (DAIRLab)
     url: https://dair.seas.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,10 +18,11 @@ bio: My research interests include optimization, control theory, and mechanics (
 
 # Interests to show in About widget
 interests:
-  - Multi-contact systems (particularly manipulation)
+  - Robotics
   - Optimization
-  - Control theory
-  - Non-smooth mechanics
+  - Control
+  - Machine Learning
+  - Dynamics
 
 # Education to show in About widget
 education:
