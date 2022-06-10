@@ -7,7 +7,7 @@ tags:
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://arxiv.org/pdf/2109.07076.pdf'
+external_link: 'https://arxiv.org/pdf/2008.02104.pdf'
 
 image:
   caption: Photo by rawpixel on Unsplash
