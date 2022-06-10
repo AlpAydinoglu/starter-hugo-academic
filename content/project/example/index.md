@@ -1,6 +1,6 @@
 ---
 title: Real-Time Multi-Contact Model Predictive Control
-summary: General hybrid model predictive control algorithm for systems that make and break contact with their environment <br /> **Real-Time Multi-Contact Model Predictive Control via ADMM (ICRA 2022)**  <br /> <span style="color:red"> **(Outstanding Dynamics and Control Paper Finalist)** text</span>
+summary: General hybrid model predictive control algorithm for systems that make and break contact with their environment <br /> **Real-Time Multi-Contact Model Predictive Control via ADMM (ICRA 2022)**  <br /> <span style="color:red"> **(Outstanding Dynamics and Control Paper Finalist)** </span>
 
 tags:
   - Deep Learning
