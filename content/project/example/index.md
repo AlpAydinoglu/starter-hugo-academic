@@ -14,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-url_code: ''
+url_code: 'https://github.com/AlpAydinoglu/coptimal'
 url_pdf: 'https://arxiv.org/pdf/2109.07076.pdf'
 url_slides: ''
-url_video: ''
+url_video: 'https://youtu.be/HyEv-pK9Qfs'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
