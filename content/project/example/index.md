@@ -1,7 +1,7 @@
 ---
 title: Real-Time Multi-Contact Model Predictive Control
-summary: General hybrid model predictive control algorithm for systems that make and break contact with their environment \n
-asasd
+summary: General hybrid model predictive control algorithm for systems that make and break contact with their environment
+asdasd
 
 tags:
   - Deep Learning
