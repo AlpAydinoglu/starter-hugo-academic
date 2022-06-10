@@ -68,8 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a doctoral candidate in the ESE department and the GRASP Lab at Penn. I work in the DAIR Laboratory where I am advised by Michael Posa. Previously, I was an undergraduate at Istanbul Technical University where I did two different thesis projects advised by M. Turan Söylemez and Neslihan Serap Şengör.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently, I am working on real-time multi-contact optimal control. One of my more recent interests is estimator design for hybrid, particularly multi-contact systems and I am also exploring reinforcement learning for the same class of systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
