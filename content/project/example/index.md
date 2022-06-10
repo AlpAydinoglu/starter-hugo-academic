@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: asdasdasd
+title: Real-Time Multi-Contact Model Predictive Control
+summary: General hybrid model predictive control algorithm, consensus complementarity control (C3), for systems that make and break contact with their environment
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
