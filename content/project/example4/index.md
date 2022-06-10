@@ -1,6 +1,6 @@
 ---
 title: Data-driven tree-based ensemble learning 
-summary: Stabilization of an unknown nonlinear dynamical system when only data samples from its dynamics are available via ensemble learning <br /> **Data-driven Stabilization of Nonlinear Systems via Tree-Based Ensemble Learning  (CDC 2019)**
+summary: Stabilization of an unknown nonlinear dynamical system when only data samples from its dynamics are available via ensemble learning <br /> **Data-driven S. of Nonlinear Systems via Tree-Based Ensemble Learning  (CDC 2019)**
 weight: 13
 
 tags:
