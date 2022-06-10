@@ -1,6 +1,6 @@
 ---
 title: Sliding mode control of a 3-DOF helicopter 
-summary: Control of a 3-DOF helicopter with a hierarchical sliding mode controller with PID surface, including hardware implementation
+summary: Control of a 3-DOF helicopter with a hierarchical sliding mode controller with PID surface, including hardware implementation <br /> **Undergraduate Thesis**
 weight: 15
 
 tags:
