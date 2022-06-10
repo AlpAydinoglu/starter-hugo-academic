@@ -1,6 +1,6 @@
 ---
 title: Multi-contact systems with NN controllers
-summary: Framework for stability analysis of complementarity systems with neural network controllers, drawing connections between non-smooth mechanics and ReLU structure <br /> **Stability Analysis of Complementarity Systems with Neural Network Controllers (HSCC 2021)**
+summary: Stability analysis of complementarity systems with neural network controllers, drawing connections between non-smooth mechanics and ReLU structure <br /> **S. Analysis of Complementarity Systems with Neural Network Controllers (HSCC 2021)**
 weight: 12
 
 tags:
