@@ -27,8 +27,8 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Robotics*
-publication_short: In *TRO*
+publication: In *IEEE International Conference on Robotics and Automation*
+publication_short: In *ICRA*
 
 abstract: While many robotic tasks, like manipulation and locomotion, are fundamentally based in making and breaking contact with the environment, state-of-the-art control policies struggle to deal with the hybrid nature of multi-contact motion. Such controllers often rely heavily upon heuristics or, due to the combinatoric structure in the dynamics, are unsuitable for real-time control. Principled deployment of tactile sensors offers a promising mechanism for stable and robust control, but modern approaches often use this data in an ad hoc manner, for instance to guide guarded moves. In this work, by exploiting the complementarity structure of contact dynamics, we propose a control framework which can close the loop on rich, tactile sensors. Critically, this framework is non-combinatoric, enabling optimization algorithms to automatically synthesize provably stable control policies. We demonstrate this approach on three different underactuated, multi-contact robotics problems.
 
