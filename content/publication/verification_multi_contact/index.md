@@ -6,7 +6,8 @@ title: 'Stability Analysis of Complementarity Systems with Neural Network Contro
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Victor M. Preciado
+  - Mahyar Fazlyab
+  - Manfred Morari
   - Michael Posa
 
 # Author notes (optional)
@@ -14,11 +15,11 @@ author_notes:
   - ''
   - ''
 
-date: '2020-01-01T00:00:00Z'
+date: '2021-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-01-01T00:00:00Z'
+publishDate: '2021-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
