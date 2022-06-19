@@ -40,9 +40,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: https://arxiv.org/pdf/2109.07076.pdf
+ links:
+ - name: Custom Link
+   url: https://arxiv.org/pdf/2109.07076.pdf
 
 url_pdf: 'https://arxiv.org/pdf/2109.07076.pdf'
 url_code: 'https://github.com/AlpAydinoglu/coptimal'
