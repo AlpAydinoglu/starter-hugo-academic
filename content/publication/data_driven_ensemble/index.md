@@ -6,19 +6,19 @@ title: 'Data-driven Stabilization of Nonlinear Systems via Tree-Based Ensemble L
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Cassiano O. Becker
   - Victor M. Preciado
-  - Michael Posa
 
 # Author notes (optional)
 author_notes:
   - ''
   - ''
 
-date: '2020-01-01T00:00:00Z'
+date: '2019-01-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-01-01T00:00:00Z'
+publishDate: '2019-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,10 +27,11 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Robotics and Automation*
-publication_short: In *ICRA*
+publication: In *IEEE Conference on Decision and Control*
+publication_short: In *CDC*
 
-abstract: While many robotic tasks, like manipulation and locomotion, are fundamentally based in making and breaking contact with the environment, state-of-the-art control policies struggle to deal with the hybrid nature of multi-contact motion. Such controllers often rely heavily upon heuristics or, due to the combinatoric structure in the dynamics, are unsuitable for real-time control. Principled deployment of tactile sensors offers a promising mechanism for stable and robust control, but modern approaches often use this data in an ad hoc manner, for instance to guide guarded moves. In this work, by exploiting the complementarity structure of contact dynamics, we propose a control framework which can close the loop on rich, tactile sensors. Critically, this framework is non-combinatoric, enabling optimization algorithms to automatically synthesize provably stable control policies. We demonstrate this approach on three different underactuated, multi-contact robotics problems.
+abstract: We present an approach for the stabilization of an unknown nonlinear dynamical system when only data samples from its dynamics are available. Our approach is based on approximating the system dynamics with an ensemble of regression trees. As a result of our approximation, we obtain a model that is a piecewise-affine dynamical system defined over a partition of the state space. In general, the stabilization of the resulting piece-wise affine system requires, in the worst case, solving an exponential number of linear matrix inequalities (with respect to the state dimension). To overcome this computational limitation, we propose a stabilization procedure having a complexity that grows linearly with the number of partitions. This stabilization procedure explicitly exploits the fact that our model is described via an ensemble of regression trees. In addition, we derive probabilistic conditions under which the stabilization of the model implies that the original nonlinear system is also stabilized. Finally, we validate our approach by performing numerical simulations over trajectories of two coupled Van der Pol oscillators.
+
 
 # Summary. An optional shortened abstract.
 summary:
