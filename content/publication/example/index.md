@@ -44,14 +44,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2109.07076.pdf'
+url_code: 'https://github.com/AlpAydinoglu/coptimal'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/HyEv-pK9Qfs'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
