@@ -46,14 +46,14 @@ featured: false
 # - name: Custom Link
 #   url: https://arxiv.org/pdf/2109.07076.pdf
 
-url_pdf: 'https://arxiv.org/pdf/1909.11221.pdf'
-url_code: 'https://github.com/AlpAydinoglu/cdesign'
+url_pdf: 'https://arxiv.org/pdf/2011.07626.pdf'
+url_code: 'https://github.com/AlpAydinoglu/sverification'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/0ey439i4Jbk'
+url_video: 'https://youtu.be/uhhKBm22BLY'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
