@@ -28,8 +28,8 @@ publishDate: '2022-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Robotics and Automation*
-publication_short: In *ICRA. <span style="color:red"> **(Outstanding Dynamics and Control Paper Finalist)** </span>*
+publication: In *Conference on Learning for Dynamics and Control*
+publication_short: In *L4DC*
 
 abstract: This paper investigates the learning, or system identification, of a class of piecewise-affine dynamical systems known as linear complementarity systems (LCSs). We propose a violation-based loss which enables efficient learning of the LCS parameterization, without prior knowledge of the hybrid mode boundaries, using gradient-based methods. The proposed violation-based loss incorporates both dynamics prediction loss and a novel complementarity - violation loss. We show several properties attained by this loss formulation, including its differentiability, the efficient computation of first- and second-order derivatives, and its relationship to the traditional prediction loss, which strictly enforces complementarity. We apply this violation-based loss formulation to learn LCSs with tens of thousands of (potentially stiff) hybrid modes. The results demonstrate a state-of-the-art ability to identify piecewise-affine dynamics, outperforming the clustering-based piecewise-affine regression methods and the methods which must differentiate through non-smooth linear complementarity constraints.
 
