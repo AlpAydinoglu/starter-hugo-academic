@@ -29,7 +29,7 @@ publication_types: ['1']
 publication: In *IEEE International Conference on Robotics and Automation*
 publication_short: In *ICRA. <span style="color:red"> **(Outstanding Dynamics and Control Paper Finalist)** </span>*
 
-abstract: 
+abstract: asd
 
 # Summary. An optional shortened abstract.
 summary:
