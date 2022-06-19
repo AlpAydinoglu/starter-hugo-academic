@@ -31,7 +31,7 @@ publication_types: ['2']
 publication: In *IEEE Transactions on Robotics*
 publication_short: In *TRO*
 
-abstract: We propose a hybrid model predictive control algorithm, consensus complementarity control (C3), for systems that make and break contact with their environment. Many state-of-the-art controllers for tasks which require initiating contact with the environment, such as locomotion and manipulation, require a priori mode schedules or are so computationally complex that they cannot run at real-time rates. We present a method, based on the alternating direction method of multipliers (ADMM), capable of highspeed reasoning over potential contact events. Via a consensus formulation, our approach enables parallelization of the contact scheduling problem. We validate our results on three numerical examples, including two frictional contact problems, and physical experimentation on an underactuated multi-contact system.
+abstract: We propose a control framework which can utilize tactile information by exploiting the complementarity structure of contact dynamics. Since many robotic tasks, like manipulation and locomotion, are fundamentally based in making and breaking contact with the environment, state-of-the-art control policies struggle to deal with the hybrid nature of multi-contact motion. Such controllers often rely heavily upon heuristics or, due to the combinatorial structure in the dynamics, are unsuitable for real-time control. Principled deployment of tactile sensors offers a promising mechanism for stable and robust control, but modern approaches often use this data in an ad hoc manner, for instance to guide guarded moves. This framework can close the loop on tactile sensors and it is non-combinatorial, enabling optimization algorithms to automatically synthesize provably stable control policies. We demonstrate this approach on multiple numerical examples, including quasi-static friction problems and a high dimensional problem with ten contacts. We also validate our results on an experimental setup and show the effectiveness of the proposed method on an underactuated multi-contact system.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -46,14 +46,14 @@ featured: false
 # - name: Custom Link
 #   url: https://arxiv.org/pdf/2109.07076.pdf
 
-url_pdf: 'https://arxiv.org/pdf/2109.07076.pdf'
-url_code: 'https://github.com/AlpAydinoglu/coptimal'
+url_pdf: 'https://arxiv.org/pdf/2008.02104.pdf'
+url_code: 'https://github.com/AlpAydinoglu/cdesign'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/HyEv-pK9Qfs'
+url_video: 'https://youtu.be/fZiJh7coMXc'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
