@@ -27,7 +27,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Robotics and Automation*
-publication_short: In *ICRA. <br /> <span style="color:red"> **(Outstanding Dynamics and Control Paper Finalist)** </span>*
+publication_short: In *ICRA. <span style="color:red"> **(Outstanding Dynamics and Control Paper Finalist)** </span>*
 
 abstract: 
 
