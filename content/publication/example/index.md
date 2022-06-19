@@ -26,8 +26,8 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Robotics and Automation 2022*
-publication_short: In *ICRA 2022*
+publication: In *IEEE International Conference on Robotics and Automation*
+publication_short: In *ICRA*
 
 abstract: 
 
