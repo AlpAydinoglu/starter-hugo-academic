@@ -50,7 +50,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://arxiv.org/pdf/2109.07076.pdf'
+url_source: ''
 url_video: 'https://youtu.be/HyEv-pK9Qfs'
 
 # Featured image
