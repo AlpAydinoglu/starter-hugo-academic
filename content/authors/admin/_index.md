@@ -66,6 +66,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a doctoral candidate in the ESE department and the GRASP Lab at Penn. I work in the DAIR Laboratory where I am advised by Prof. Michael Posa. Previously, I was an undergraduate at Istanbul Technical University where I worked with Prof. M. Turan Söylemez and Prof. Neslihan Serap Şengör.
+I am a doctoral candidate in the ESE department and the GRASP Lab at Penn where I am advised by Prof. Michael Posa. Previously, I was an undergraduate at Istanbul Technical University where I worked with Prof. M. Turan Söylemez and Prof. Neslihan Serap Şengör.
 
 I am interested in intersection of robotics, control theory, mechanics (particularly non-smooth mechanics) and optimization. I am working on real-time multi-contact optimal control and currently validating our methods on a physical robot executing dynamic manipulation tasks. I am also exploring reinforcement learning algorithms for the same class of systems.
