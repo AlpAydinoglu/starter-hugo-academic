@@ -45,7 +45,7 @@ featured: false
 # - name:
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://github.com/AlpAydinoglu/starter-hugo-academic/blob/main/static/uploads/Framework_and_Software_for_Real_Time_Multi_Contact_Model_Predictive_Control.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
