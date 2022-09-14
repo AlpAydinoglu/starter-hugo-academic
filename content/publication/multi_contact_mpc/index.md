@@ -27,7 +27,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Robotics and Automation*
-publication_short: In *TRO* <span style="color:green"> **(Best Paper Finalist, TC on Model-Based Optimization for Robotics)** </span>
+publication_short: In *ICRA* <span style="color:green"> **(Outstanding Dynamics and Control Paper Finalist)** </span>
 
 abstract: We propose a hybrid model predictive control algorithm, consensus complementarity control (C3), for systems that make and break contact with their environment. Many state-of-the-art controllers for tasks which require initiating contact with the environment, such as locomotion and manipulation, require a priori mode schedules or are so computationally complex that they cannot run at real-time rates. We present a method, based on the alternating direction method of multipliers (ADMM), capable of highspeed reasoning over potential contact events. Via a consensus formulation, our approach enables parallelization of the contact scheduling problem. We validate our results on three numerical examples, including two frictional contact problems, and physical experimentation on an underactuated multi-contact system.
 
