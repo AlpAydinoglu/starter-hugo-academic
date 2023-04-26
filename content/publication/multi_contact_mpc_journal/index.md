@@ -6,6 +6,7 @@ title: 'Consensus Complementarity Control for Multi-Contact MPC'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Adam Wei
   - Michael Posa
 
 # Author notes (optional)
@@ -27,7 +28,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: Submitted to IEEE Transactions on Robotics
-publication_short: Submitted to T-RO.
+publication_short: Submitted to T-RO
 
 abstract: We propose a hybrid model predictive control algorithm, consensus complementarity control (C3), for systems that make and break contact with their environment. Many state-ofthe-art controllers for tasks which require initiating contact with the environment, such as locomotion and manipulation, require a priori mode schedules or are too computationally complex to run at real-time rates. We present a method based on the alternating direction method of multipliers (ADMM) that is capable of highspeed reasoning over potential contact events. Via a consensus formulation, our approach enables parallelization of the contact scheduling problem. We validate our results on five numerical examples, including four high-dimensional frictional contact problems, and a physical experimentation on an underactuated multi-contact system. We further demonstrate the effectiveness of our method on a physical experiment accomplishing a highdimensional, multi-contact manipulation task with a robot arm.
 
