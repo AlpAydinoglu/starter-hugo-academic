@@ -14,7 +14,7 @@ organizations:
     url: https://dair.seas.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include optimization, control theory, and mechanics (particularly non-smooth mechanics).
+bio: My research interests include optimization, control theory, learning and mechanics (particularly non-smooth mechanics).
 
 # Interests to show in About widget
 interests:
@@ -69,3 +69,5 @@ highlight_name: true
 I am a doctoral candidate in the ESE department and the GRASP Lab at Penn where I am advised by Michael Posa. Previously, I was an undergraduate at Istanbul Technical University where I worked with İbrahim Eksin, Turan Söylemez and Neslihan Şengör.
 
 I am interested in robots that make and break contact with their environment. I work in the intersection of robotics, optimization, control theory, learning and non-smooth mechanics. Currently, I am developing a real-time multi-contact model predictive control algorithm with a focus on dynamic manipulation tasks.
+
+![cat](/cat.jpg)
