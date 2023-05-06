@@ -70,9 +70,6 @@ I am a doctoral candidate in the ESE department and the GRASP Lab at Penn where 
 
 I am interested in robots that make and break contact with their environment. I work in the intersection of robotics, optimization, control theory, learning and non-smooth mechanics. Currently, I am developing a real-time multi-contact model predictive control algorithm with a focus on dynamic manipulation tasks.
 
-<img src="cats.gif">
-<img src="catss.gif">
-
 | <img src="cats.gif"> | <img src="catss.gif"> | Header 3 |
 | -------- | -------- | -------- |
 |   |   |    |
