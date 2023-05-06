@@ -72,3 +72,5 @@ I am interested in robots that make and break contact with their environment. I 
 
 <img src="cats.gif">
 <img src="catss.gif">
+
+| Item 1a  | Item 2a  | Item 3a  |
