@@ -11,7 +11,8 @@ weight = 80  # Order that this section will appear.
 title = ""
 subtitle = ""
 
-content = asd
+content:
+	text: asd
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
