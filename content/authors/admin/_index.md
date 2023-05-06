@@ -74,3 +74,4 @@ I am interested in robots that make and break contact with their environment. I 
 <img src="catss.gif">
 
 | <img src="cats.gif"> | <img src="catss.gif"> | Header 3 |
+| -------- | -------- | -------- |
