@@ -46,7 +46,7 @@ subtitle = ""
 [advanced]
  # Custom CSS. 
 
- css_style = "<img src="cats.gif">"
+ css_style = "<p>Hello World!</p>"
  
  # CSS class.
  css_class = ""
