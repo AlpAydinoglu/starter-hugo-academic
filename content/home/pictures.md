@@ -53,7 +53,6 @@ subtitle = ""
  css_class = ""
 +++
 
-|   |   |    | | |
 | <img src="frankaroll.gif" width="300" height="300"> | <img src="franka.gif" width="300" height="300"> | <img src="franka_sim.gif" width="190" height="190">  | <img src="cartpole.gif" width="300" height="300"> | <img src="boxpivot.gif" width="300" height="300"> |
 | -------- | -------- | -------- | -------- | -------- |
 |   |   |    | | |
