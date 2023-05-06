@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "asd"
+title = ""
 subtitle = ""
 
 [design]
@@ -46,7 +46,7 @@ subtitle = ""
 [advanced]
  # Custom CSS. 
 
- css_style = ""
+ css_style = "<img src="cats.gif">"
  
  # CSS class.
  css_class = ""
