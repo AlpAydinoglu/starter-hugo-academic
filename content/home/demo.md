@@ -46,11 +46,6 @@ subtitle = ""
 [advanced]
  # Custom CSS. 
 
-| <img src="cats.gif"> | <img src="catss.gif"> | Header 3 |
-| -------- | -------- | -------- |
-|   |   |    |
-|   |   |    |
-
  css_style = ""
  
  # CSS class.
