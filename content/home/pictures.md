@@ -54,6 +54,6 @@ subtitle = ""
 +++
 
 | <img src="cats.gif"> | <img src="catss.gif"> | Header 3 |
-| 	 |  | |
+| -------- | -------- | -------- |
 |   |   |    |
 |   |   |    |
