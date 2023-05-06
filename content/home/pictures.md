@@ -53,7 +53,7 @@ subtitle = ""
  css_class = ""
 +++
 
-| <img src="cats.gif"> | <img src="catss.gif"> | Header 3 |
+| <img src="cats.gif" width="500" height="600"> | <img src="catss.gif" width="500" height="600"> | Header 3 |
 | -------- | -------- | -------- |
 |   |   |    |
 |   |   |    |
