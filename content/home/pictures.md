@@ -52,3 +52,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+| <img src="frankaroll.gif" width="300" height="300"> | <img src="franka.gif" width="300" height="300"> | Header 3 |
+| -------- | -------- | -------- |
+|   |   |    |
+|   |   |    |
