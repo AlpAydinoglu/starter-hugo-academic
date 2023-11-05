@@ -11,7 +11,7 @@ role: Research Engineer
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Boston Dynamics
-    url: https://dair.seas.upenn.edu/](https://bostondynamics.com/)
+    url: https://bostondynamics.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optimization, control theory, learning and mechanics (particularly non-smooth mechanics).
