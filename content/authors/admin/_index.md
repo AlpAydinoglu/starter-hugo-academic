@@ -29,7 +29,7 @@ education:
   courses:
     - course: PhD in Robotics
       institution: University of Pennsylvania
-      year: Ongoing
+      year: 2023
     - course: BSc in Control Engineering
       institution: Istanbul Technical University
       year: 2017
