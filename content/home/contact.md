@@ -18,7 +18,7 @@ content:
  
 
   # Contact details (edit or remove options as required)
-  email: alpayd@seas.upenn.edu
+  email: alpaydinogl@gmail.com
   
 design:
   columns: '2'
