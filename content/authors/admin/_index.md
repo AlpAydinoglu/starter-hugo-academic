@@ -6,12 +6,12 @@ title: Alp Aydınoğlu
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in GRASP Lab
+role: Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Pennsylvania (DAIRLab)
-    url: https://dair.seas.upenn.edu/
+  - name: Boston Dynamics
+    url: https://dair.seas.upenn.edu/](https://bostondynamics.com/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include optimization, control theory, learning and mechanics (particularly non-smooth mechanics).
@@ -66,6 +66,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a doctoral candidate in the ESE department and the GRASP Lab at Penn where I am advised by Michael Posa. Previously, I was an undergraduate at Istanbul Technical University where I worked with İbrahim Eksin, Turan Söylemez and Neslihan Şengör.
+# I am a doctoral candidate in the ESE department and the GRASP Lab at Penn where I am advised by Michael Posa. Previously, I was an undergraduate at Istanbul Technical University where I worked with İbrahim Eksin, Turan Söylemez and Neslihan Şengör.
 
-I am interested in robots that make and break contact with their environment. I work in the intersection of robotics, optimization, control theory, learning and non-smooth mechanics. Currently, I am developing a real-time multi-contact model predictive control algorithm with a focus on dynamic manipulation tasks.
+I am interested in robots that make and break contact with their environment. I work in the intersection of robotics, optimization, control theory, learning and non-smooth mechanics.
